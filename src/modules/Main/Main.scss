@@ -1,0 +1,23 @@
+body {
+  background: lightgrey;
+}
+
+.leapopt-ui {
+  padding-top: 10px;
+  .app-content {
+    width: 960px;
+    min-height: 500px;
+    margin: 10px auto;
+    background: white;
+    .page-title {
+      padding: 10px 0px 0px 10px;
+      font-weight:normal;
+    }
+    .form {
+      width: 100%;
+    }
+    .progressbar {
+      margin: 0 auto;
+    }
+  }
+}

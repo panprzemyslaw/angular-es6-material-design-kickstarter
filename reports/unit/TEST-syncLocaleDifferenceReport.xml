@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite package="sync-locale" name="syncLocaleDifferences" id="0" failures="0" tests="11" timestamp="1460391271244">
+        <testcase name="de_DE.json"/>
+        <testcase name="en_US_ATT.json"/>
+        <testcase name="es_ES.json"/>
+        <testcase name="es_LA.json"/>
+        <testcase name="fr_FR.json"/>
+        <testcase name="it_IT.json"/>
+        <testcase name="ja_JP.json"/>
+        <testcase name="ko_KR.json"/>
+        <testcase name="pt_BR.json"/>
+        <testcase name="zh_CN.json"/>
+        <testcase name="zh_TW.json"/>
+    </testsuite>
+</testsuites>

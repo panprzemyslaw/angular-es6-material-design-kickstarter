@@ -1,0 +1,14 @@
+[
+  {
+    "hostname": "www.en.wikipedia.org",
+    "status": "RUNNING"
+  },
+  {
+    "hostname": "www.akamai.com",
+    "status": "SUCCESS"
+  },
+  {
+    "hostname": "www.nba.com",
+    "status": "FAILURE_PERMANENT"
+  }
+]

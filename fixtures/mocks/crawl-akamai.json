@@ -1,0 +1,179 @@
+{
+    "url": "http://akamai.com",
+    "timeLeftSec": 2,
+    "visited": 81,
+    "resources": {
+        "CSS": 196,
+        "IMAGE": 485,
+        "SCRIPT": 253,
+        "VIDEO": 2
+    },
+    "domains": [
+        {
+            "name": "twitter.com",
+            "ips": [
+                "199.16.156.102",
+                "199.16.156.198",
+                "199.16.156.38",
+                "199.16.156.230"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "www.cdp.net",
+            "ips": [
+                "170.252.32.58"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "systemscontinuity.com",
+            "ips": [
+                "74.212.223.50"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www.swisstxt.ch",
+            "ips": [
+                "193.218.104.209"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www.ir.akamai.com",
+            "ips": [
+                "88.221.209.111"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www.securedretail.com",
+            "ips": [
+                "107.180.24.253"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www.enduranceinternational.com",
+            "ips": [
+                "216.146.46.11",
+                "216.146.46.10"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www.exceda.com",
+            "ips": [
+                "88.221.209.111"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "pages.questexweb.com",
+            "ips": [
+                "192.28.146.87"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "developer.akamai.com",
+            "ips": [
+                "2a02:26f0:fd:182:0:0:0:12a9",
+                "104.87.163.236",
+                "2a02:26f0:fd:187:0:0:0:12a9"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "www.synacor.com",
+            "ips": [
+                "69.168.96.222"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www2.telenet.be",
+            "ips": [
+                "8.247.16.239"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "www.akamai.com",
+            "ips": [
+                "2a02:26f0:fd:180:0:0:0:22d9",
+                "104.84.61.67",
+                "2a02:26f0:fd:182:0:0:0:22d9"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "blogs.akamai.com",
+            "ips": [
+                "2a02:26f0:fd:189:0:0:0:147e",
+                "104.84.63.20",
+                "2a02:26f0:fd:183:0:0:0:147e"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "www.brighttalk.com",
+            "ips": [
+                "104.87.171.145"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "control.akamai.com",
+            "ips": [
+                "104.87.160.105"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        },
+        {
+            "name": "akamai.com",
+            "ips": [
+                "72.246.2.102",
+                "96.6.114.94"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "www.endurance.com",
+            "ips": [
+                "65.254.252.18",
+                "69.195.126.144",
+                "192.185.178.17"
+            ],
+            "certificates": []
+        },
+        {
+            "name": "content.akamai.com",
+            "ips": [
+                "104.87.169.180"
+            ],
+            "certificates": [
+                "X.509"
+            ]
+        }
+    ]
+}

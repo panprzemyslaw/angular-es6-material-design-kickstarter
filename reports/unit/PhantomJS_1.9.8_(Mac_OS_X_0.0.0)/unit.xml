@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 1.9.8 (Mac OS X 0.0.0)" package="" timestamp="2016-04-11T16:14:34" id="0" hostname="krk-mp7bq" tests="1" errors="1" failures="1" time="0.016">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"/>
+  </properties>
+  <testcase name="should say &quot;Portal App&quot;" time="0.016" classname="PhantomJS_1_9_8_(Mac_OS_X_0_0_0).MainPage">
+    <failure type="">Expected 'Leap Opt' to equal 'Portal App'.
+    at /var/folders/7w/0dlfk0hj135dwn_gr6j4_7mh0000gy/T/5db4a8c222e95b03ebccbafaa12cdf46.browserify:115
+</failure>
+  </testcase>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>

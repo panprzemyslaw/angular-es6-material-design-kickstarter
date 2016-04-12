@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "beforeEach": "false",
+    "afterEach": "false",
+    "spyOn": "false",
+    "jasmine": "false",
+    "expect": "false"
+  },
+
+  "rules" : {
+    "max-nested-callbacks": 0,
+    "prefer-arrow-callback": 0
+  }
+}
