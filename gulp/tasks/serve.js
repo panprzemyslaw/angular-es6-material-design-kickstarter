@@ -8,6 +8,6 @@ gulp.task('serve', ['browserify', 'css', 'markup', 'copy-to-dist', 'fixture-serv
     // fixture server port
     proxy: 'localhost:3000',
     startPath: '/',
-    files: '../src/main/resources/static'
+    files: 'dist'
   });
 });

@@ -14,5 +14,5 @@ gulp.task('css', function() {
     .pipe(sass())
     .pipe(gulpif(production, minifyCss()))
     .pipe(sourcemaps.write('./'))
-    .pipe(gulp.dest('../src/main/resources/static'));
+    .pipe(gulp.dest('dist'));
 });

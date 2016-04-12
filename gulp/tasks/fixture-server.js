@@ -13,7 +13,7 @@ var gulp = require('gulp'),
   configBase = {
     port: PORT,
     staticPaths: {
-      '/': '../src/main/resources/static',
+      '/': 'dist',
     }
   },
 

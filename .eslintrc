@@ -1,0 +1,7 @@
+{
+  "extends": "akamai",
+
+  "rules": {
+    "max-len": [1, 250, 2, {"ignoreUrls": true}]
+  }
+}

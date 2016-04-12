@@ -19,7 +19,7 @@ var config = {
   bundleConfigs: [{
     debug: true,
     entries: './src/app.js',
-    dest: './../src/main/resources/static',
+    dest: './dist',
     outputName: 'app'
   }]
 };
